@@ -1,15 +1,1 @@
-<!DOCTYPE html>
-<html>
-<head>
-    <title>Button Click Event</title>
-</head>
-<body>
-
-    <button id="btn1">Button 1</button>
-    <button id="btn2">Button 2</button>
-
-    <p id="message"></p>
-
-    <script src="script.js"></script>
-</body>
-</html>
+handle.events
